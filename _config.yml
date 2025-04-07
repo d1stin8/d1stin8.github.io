@@ -17,7 +17,7 @@ twitter_username: OmnisOpes
 github_username:  d1sin8
 
 # Build settings
-theme: minima
+theme: jekyll-theme-tactile 
 plugins:
   - jekyll-feed
 
